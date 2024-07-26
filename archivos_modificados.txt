@@ -1,0 +1,3 @@
+M - agregado.py
+M - purchases.py
+M - service.py
